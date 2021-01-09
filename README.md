@@ -105,3 +105,7 @@ With gid :
 
 List file with suid (extended permissions) :  
 `find / -perm /u=s -exec ls -la {} \;`
+
+___
+Updated : 09/01/2021
+Author : AnthonyF
