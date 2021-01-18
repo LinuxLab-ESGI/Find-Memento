@@ -3,11 +3,11 @@
 A memento about the find command, a very usefull research tool
 
 Find is a program to let us search files in a folder tree. It is installed normally in every Linux distros.
-It has lots of options, basically you can find evrey file your want with the find command.
+It has lots of options, basically you can find every file your want with the find command.
 
 ## Basic use cases
 
-The command find is generally use with this scheme :  
+The command find is generally used with this scheme :  
 'find /folder -options ...'
 
 ### Simple search
@@ -69,7 +69,7 @@ Created time :
 Modified time :
 `find / -mtime +1`
 
-Tim in minute :  
+Time in minute :  
 `find / -amin -1`
 
 #### Users
@@ -107,5 +107,5 @@ List file with suid (extended permissions) :
 `find / -perm /u=s -exec ls -la {} \;`
 
 ___
-Updated : 09/01/2021
+Updated : 18/01/2021
 Author : AnthonyF
