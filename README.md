@@ -2,7 +2,7 @@
 
 A memento about the find command, a very useful research tool
 
-Find is a program to let us search files in a folder tree. It is installed normally in every Linux distros.
+Find is a program taht lets us search files in a folder tree. It is installed normally in every Linux distros.
 It has lots of options, basically you can find every file your want with the find command.
 
 ## Basic use cases
